@@ -4,6 +4,11 @@ import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * Here we find all the Palindrome available in a given string. 
+ * @author Karthic Santhanam
+ *
+ */
 public class Palindrome {
 	
 	static List<String> paliStrList = new ArrayList<String>(); 
